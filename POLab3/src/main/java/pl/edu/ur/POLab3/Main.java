@@ -23,7 +23,8 @@ public class Main {
         return potega (g,o-1)*g;
     
  
-}
+} 
+  
     public static void main(String[] args) {
 
         System.out.println("Wczytaj numer zadania");
